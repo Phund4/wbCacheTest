@@ -16,3 +16,12 @@
 //         Get(key interface{}) (value interface{}, ok bool)
 //         Remove(key interface{})
 //     }
+
+Для запуска:
+1) Клонируете репозиторий
+2) ```bash
+   cd wbCacheTest
+   ```
+3) ```bash
+   go run cmd/main.go
+   ```
